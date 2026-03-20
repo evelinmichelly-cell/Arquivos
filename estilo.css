@@ -1,0 +1,10 @@
+body{
+    /*cor de fundo e fonte*/
+}
+
+
+div{/*para centralizar a div*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
